@@ -4,7 +4,8 @@
 
 This policy for Play Store
 
-Moons Tour use :
+Moons Tour use :   
+
 -Camera  
 -internet connection  
 -Should detect the images target using your camera  
